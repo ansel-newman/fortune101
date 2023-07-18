@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  color: White;
+  text-shadow: 0 0 3px #000000, 0 0 5px #0000ff;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(rgb(217, 19, 19), rgb(117, 25, 162));
+  margin: auto;
+}
+
+.Wonka img {
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+Button {
+  box-shadow: 3px 3px;
+}
+
+body {
+  background-color: #000000;
+}
